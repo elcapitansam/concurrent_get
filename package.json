@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "http-debug": "^0.1.2"
+  }
+}
